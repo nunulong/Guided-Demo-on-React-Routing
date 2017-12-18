@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  /* border: 1px solid red; */
+}
+
+html, body {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  border: 1px solid silver;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.centered {
+  text-align: center;
+}
+
+.link {
+  margin: 0 10px;
+}
+
+.link--active {
+  color: red;
+  font-weight: 700;
+}
+
+.about {
+  color: green;
+}
